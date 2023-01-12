@@ -6,4 +6,4 @@ This repository includes assignments from BIS 15L
 
 [Allison Nguyen](mailto:allnguy@ucdavis.edu)
 
-Thank you for visiting :)
+## Thank you for visiting :)
