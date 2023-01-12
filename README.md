@@ -2,7 +2,7 @@
 
 This repository includes assignments from BIS 15L
 
-##Contact Info
+## Contact Info
 
 [Allison Nguyen](mailto:allnguy@ucdavis.edu)
 
